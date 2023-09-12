@@ -25,5 +25,5 @@ public class MainEntry {
     }
 
     //ScreenDisplay객체(target)의 출력 속도가 느려
-    //버퍼 기능을 가진  BufferDisplay 객체를 이용해서 출력 속도 향상
+    //버퍼 기능을 가진  BufferDisplay 객체를 이용해서 성능 속도 향상
 }

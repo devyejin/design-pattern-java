@@ -36,5 +36,6 @@ public class BufferDisplay implements Display {
         buffer.clear();
 
 
+
     }
 }
