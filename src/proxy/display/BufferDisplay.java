@@ -1,6 +1,5 @@
-package proxy.ex1;
+package proxy.display;
 
-import java.sql.Array;
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package proxy.ex1;
+package proxy.display;
 
 public class MainEntry {
 
